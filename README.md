@@ -1,25 +1,23 @@
-Me chamo Luana Pimentel, tenho 24 anos e estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e estou em transição de carreira para a área de TI, com foco em dados. Atualmente, estudo SQL e Python para aprimorar minhas habilidades e busco oportunidades para aplicar meu conhecimento em projetos práticos.
+<h1 align="center">Hi 👋, I'm Luana Pimentel</h1>
+<h3 align="center">Software Developer | Systems Analysis and Development Graduate</h3>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👩‍💻 About Me
 
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+🎓 Graduate in Systems Analysis and Development  
+💻 Interested in Software Development  
+📚 Always learning new technologies  
+🚀 Looking for opportunities in the tech industry  
 
-<br/>
-<br/>
+---
+
+### 🛠️ Technologies
+
+![PYTHON](https://img.shields.io/badge/PYTHON-yellow)
+![C#](https://img.shields.io/badge/C-SHARP-purple)
+![SQL](https://img.shields.io/badge/SQL-grey)
+![Git](https://img.shields.io/badge/Git-black)
+
+---
+
