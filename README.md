@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bannerlu.png.png" width="100%">
+  <img src="bannerlu.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Luana Pimentel</h1>
