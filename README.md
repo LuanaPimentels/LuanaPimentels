@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="bannerlu.png">
+</p>
+
 <h1 align="center">Hi 👋, I'm Luana Pimentel</h1>
 <h3 align="center">Software Developer | Systems Analysis and Development Graduate</h3>
 
